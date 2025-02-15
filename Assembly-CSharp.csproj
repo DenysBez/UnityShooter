@@ -46,6 +46,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Content\Low Poly Guns\Scripts\GunView.cs" />
+    <Compile Include="Assets\Code\Weapon\HealthController.cs" />
     <Compile Include="Assets\Content\Low Poly Guns\Scripts\GunsMenu.cs" />
     <Compile Include="Assets\Code\Weapon\WeaponController.cs" />
     <Compile Include="Assets\Code\Weapon\Bullet.cs" />
