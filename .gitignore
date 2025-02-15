@@ -1,0 +1,45 @@
+# Unity generated files
+# User-specific files
+UserSettings/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]istro/
+Build/
+Builds/
+
+# User-specific files (Windows/Mac/Linux)
+.idea/
+.vscode/
+.vs/
+.vs2019/
+.vs2017/
+
+# Unity Cache
+Library/
+Temp/
+Obj/
+
+# Asset meta files
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.unityproj
+*.booproj
+*.svd
+.vscode/
+
+# Log files
+*.log
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Unity auto-generated files
+sysinfo.txt
+
